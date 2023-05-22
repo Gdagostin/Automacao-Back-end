@@ -1,0 +1,4 @@
+1. Como automatizar testes no back-end contribui para o ciclo de desenvolvimento?
+
+A automação dos testes ajuda a garantir a confiabilidade do código do back-end, identificando quaisquer erros ou problemas que possam ter sidos imputados durante o desenvolvimento ou manutenção do software.
+Além disso pode contribuir com economia de tempo, esforço e custos, pois os testes podem ser executados de forma rápida sem intervenção manual e detectam os bugs nas fases iniciais. Desta forma também aumenta a cobertura de testes durante todas as fases de novas implementações onde a automação pode ser utilizada. Facilita também a integração e a entrega contínua podendo ser integrado ao processo de desenvolvimento testando todas as alterações antes de serem implementadas.
